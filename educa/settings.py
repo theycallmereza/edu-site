@@ -38,6 +38,7 @@ INSTALLED_APPS = [
 
     # LOCAL
     'courses.apps.CoursesConfig',
+    'students.apps.StudentsConfig',
 ]
 
 MIDDLEWARE = [
